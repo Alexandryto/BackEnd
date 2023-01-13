@@ -10,7 +10,7 @@ import com.portfolioweb.maa.Security.Enums.RolNombre;
 import com.portfolioweb.maa.Security.Service.RolService;
 import com.portfolioweb.maa.Security.Service.UsuarioService;
 import com.portfolioweb.maa.Security.jwt.JwtProvider;
-import jakarta.validation.Valid;
+import javax.validation.Valid;
 import java.util.HashSet;
 import java.util.Set;
 import org.springframework.beans.factory.annotation.Autowired;

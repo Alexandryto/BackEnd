@@ -3,7 +3,7 @@ package com.portfolioweb.maa.Security.Service;
 
 import com.portfolioweb.maa.Security.Entity.Usuario;
 import com.portfolioweb.maa.Security.Repository.iUsuarioRepository;
-import jakarta.transaction.Transactional;
+import javax.transaction.Transactional;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

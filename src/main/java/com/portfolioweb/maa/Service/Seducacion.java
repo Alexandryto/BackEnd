@@ -3,7 +3,7 @@ package com.portfolioweb.maa.Service;
 
 import com.portfolioweb.maa.Entity.Educacion;
 import com.portfolioweb.maa.Repository.REducacion;
-import jakarta.transaction.Transactional;
+import javax.transaction.Transactional;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;

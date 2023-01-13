@@ -7,7 +7,7 @@ package com.portfolioweb.maa.Security.Service;
 import com.portfolioweb.maa.Security.Entity.Rol;
 import com.portfolioweb.maa.Security.Enums.RolNombre;
 import com.portfolioweb.maa.Security.Repository.iRolRepository;
-import jakarta.transaction.Transactional;
+import javax.transaction.Transactional;
 import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
