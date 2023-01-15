@@ -27,6 +27,7 @@ C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\s
 C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Dto\dtoHys.java
 C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Security\Dto\NuevoUsuario.java
 C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Security\Service\UserDetailsImpl.java
+C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Security\MainSecurity.java
 C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Security\Repository\iUsuarioRepository.java
 C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Repository\PersonaRepository.java
 C:\Users\AleLuca\Documents\Argentina Programa\Proyecto Final 2\BackEnd\BackEnd\src\main\java\com\portfolioweb\maa\Security\Dto\JwtDto.java

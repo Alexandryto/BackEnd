@@ -4,6 +4,7 @@ com\portfolioweb\maa\Entity\hys.class
 com\portfolioweb\maa\Repository\Rhys.class
 com\portfolioweb\maa\Security\Controller\AuthController.class
 com\portfolioweb\maa\Security\jwt\JwtProvider.class
+com\portfolioweb\maa\Security\MainSecurity.class
 com\portfolioweb\maa\Entity\Persona.class
 com\portfolioweb\maa\Service\SExperiencia.class
 com\portfolioweb\maa\Security\Entity\UsuarioPrincipal.class
