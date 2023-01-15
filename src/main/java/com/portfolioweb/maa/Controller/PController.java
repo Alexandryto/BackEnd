@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/lista")
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://frondendmaa.web.app")
 public class PController {
     @Autowired
     PService personaService;
